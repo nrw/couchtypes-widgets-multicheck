@@ -1,5 +1,5 @@
 {
-	"name": "couchtypes-widgets-multicheck",
-    "version": "0.0.1",
-    "description": "A widget for selecting more than one checkbox in a form"
+  "name": "couchtypes-widgets-multicheck",
+  "version": "0.0.1",
+  "description": "A widget for selecting more than one checkbox in a form"
 }
