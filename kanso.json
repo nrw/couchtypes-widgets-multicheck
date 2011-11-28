@@ -1,6 +1,7 @@
 {
   "name": "couchtypes-widgets-multicheck",
   "version": "0.0.1",
+  "categories": ["forms","couchtypes"],
   "description": "A widget for selecting more than one checkbox in a form",
   "modules": "couchtypes",
   "dependencies": {
